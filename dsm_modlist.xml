@@ -4,82 +4,82 @@
 <!-- 2011, Igor Kozlov -->
 <!-- List of performance modifications / current specs / stats & notes -->
 <current_specs>
-	<layout>
-		<type>
-			2+2 sport compact coupe
-		</type>
-		<model>
-			1997 Eagle Talon TSi AWD
-		</model>
-		<drivetrain>
-			Transverse front engine, all wheel drive
-		</drivetrain>
-		<frame_construction>
-			Stock-type unibody steel
-		</frame_construction>
-		<weight>
-			2700 lbs
-		</weight>
-	</layout>
-	<engine>
-		<type>
-			Mitsubishi 4G63T inline 4
-		</type>
-		<construction>
-			Cast iron block, aluminum head
-		</construction>
-		<displacement>
-			2.0
-		</displacement>
-		<swap>
-			JDM 6-bolt 4G63T (92 Galant VR4 70k original km) swap done by Kinetic Motorsport
-		</swap>
-		<block>
-		</block>
-		<head>
-		</head>
-		<headstuds>
-		</headstuds>
-		<valve_gear>
-			DOHC, 4 valves per cylinder
-		</valve_gear>
-		<cams>
-		</cams>
-		<cam_gears>
-		</cam_gears>
-		<crankshaft>
-		</crankshaft>
-		<rods>
-		</rods>
-		<pistons>
-		</pistons>
-		<valve_springs>
-		</valve_springs>
-	</engine>
-	<intake>
-		<air_filter>
-			K&amp;N filter
-		</air_filter>
-		<pre_turbo>
-			4" SS cold air intake
-		</pre_turbo>
-		<intercooler>
-			Kinetic Motorsport DSM 2g Race FMIC kit (24"x12"x3.5")
-		</intercooler>
-		<post_turbo>
-			2" T304 SS piping
-		</post_turbo>
-		<bov>
-			Blitz Dual Drive Blow-off Valve
-		</bov>
-		<manifold>
-			JDM Cyclone intake manifold
-		</manifold>
-		<tbody>
-		</tbody>
-		<tb_elbow>
-		</tb_elbow>
-	</intake>
+  <layout>
+    <type>
+      2+2 sport compact coupe
+    </type>
+    <model>
+      1997 Eagle Talon TSi AWD
+    </model>
+    <drivetrain>
+      Transverse front engine, all wheel drive
+    </drivetrain>
+    <frame_construction>
+      Stock-type unibody steel
+    </frame_construction>
+    <weight>
+      2700 lbs
+    </weight>
+  </layout>
+  <engine>
+    <type>
+      Mitsubishi 4G63T inline 4
+    </type>
+    <construction>
+      Cast iron block, aluminum head
+    </construction>
+    <displacement>
+      2.0
+    </displacement>
+    <swap>
+      JDM 6-bolt 4G63T (92 Galant VR4 70k original km) swap done by Kinetic Motorsport
+    </swap>
+    <block>
+    </block>
+    <head>
+    </head>
+    <headstuds>
+    </headstuds>
+    <valve_gear>
+      DOHC, 4 valves per cylinder
+    </valve_gear>
+    <cams>
+    </cams>
+    <cam_gears>
+    </cam_gears>
+    <crankshaft>
+    </crankshaft>
+    <rods>
+    </rods>
+    <pistons>
+    </pistons>
+    <valve_springs>
+    </valve_springs>
+  </engine>
+  <intake>
+    <air_filter>
+      K&amp;N filter
+    </air_filter>
+    <pre_turbo>
+      4" SS cold air intake
+    </pre_turbo>
+    <intercooler>
+      Kinetic Motorsport DSM 2g Race FMIC kit (24"x12"x3.5")
+    </intercooler>
+    <post_turbo>
+      2" T304 SS piping
+    </post_turbo>
+    <bov>
+      Blitz Dual Drive Blow-off Valve
+    </bov>
+    <manifold>
+      JDM Cyclone intake manifold
+    </manifold>
+    <tbody>
+    </tbody>
+    <tb_elbow>
+    </tb_elbow>
+  </intake>
   <forced_induction>
     <turbocharger>
       Forced Performance DSM FP3052 Ball Bearing turbo w/ driver side elbow (GT3076r)
@@ -110,324 +110,324 @@
   </forced_induction>
   <exhaust>
     <manifold>
-			Forced Performance DSM Race Manifold w/ Bronze Coating (D5S Ni-Resist Turbine housing material)
-		</manifold>
-		<o2_housing>
-			Forced Performance Custom 3" SS O2 Housing Recirculated
-		</o2_housing>
-		<wastegate>
-			TiAL 44mm vband Wastegate
-		</wastegate>
-		<downpipe>
-			Kinetic Motorsport 3" SS Downpipe w/ flex coupling
-		</downpipe>
-		<catback>
-			Kinetic Motorsport 3" Mandrel Bent SS Full catback + resonator + 2nd o2 sensor extension welded in
-		</catback>
-		<cat_converter>
-			Magnaflow High Flow 3" Cat (aircare warrior)
-		</cat_converter>
-		<resonator>
-			Vibrant Performance Bottle Style Resonator 3"/4" x 18" T304 Stainless Steel
-		</resonator>
-	</exhaust>
-	<fuel_system>
-		<injectors>
-			4x Rochester type injectors of unknown size (~680cc)
-		</injectors>
-		<fuel_pump>
-			Walbro 255lph HP Fuel Pump
-		</fuel_pump>
-		<fuel_lines>
-		</fuel_lines>
-		<fuel_lines_return>
-		</fuel_lines_return>
-		<fuel_rail>
-		</fuel_rail>
-		<fpr>
-		</fpr>
-		<fuel_filter>
-		</fuel_filter>
-	</fuel_system>
-	<electronics>
-		<engine_mgmt>
-			AEM EMS Programmable Engine Management Systems (AEM Part# 30-1310)
-		</engine_mgmt>
-		<map_sensor>
-			AEM 3.5 BAR / 50 PSIa MAP Stainless Steel Sensor Kit (AEM Part# 30-2130-50)
-		</map_sensor>
-		<iat_sensor>
-			AEM Air Inlet Temperature Sensor Kit (AEM Part# 30-2010)
-		</iat_sensor>
-		<boost_controller>
-			AEM Boost Control Solenoid Kit (AEM Part# 30-2400)
-		</boost_controller>
-		<battery>
-			MotoMaster 72 (storage)
-		</battery>
-		<alternator>
-			GM/Saturn 96A alternator (1993-99 Saturn SC series with DOHC engine)
-		</alternator>
-		<alternator_relocation>
-			Jay Racing Alternator Relocation Kit for 2G DSM w/ aluminum main bracket
-		</alternator_relocation>
-		<gauge>
-			AutoMeter UltraLite (Air/Fuel, Boost, Pyrometer)
-		</gauge>
-		<ignition>
-		</ignition>
-		<spark_plugs>
-			NGK BPR6ES gapped to 0.028"
-		</spark_plugs>
-		<spark_delivery>
-			NGK Spark Plug Wires
-		</spark_delivery>
-	</electronics>
-	<cooling>
-		<radiator>
-			Fluidyne Aluminum Radiator 2g DSM
-		</radiator>
-		<radcap>
-			GReddy 1.3 bar Rad Cap Type S
-		</radcap>
-		<hose>
-			GReddy Upper Radiator Hose
-		</hose>
-		<fan>
-		</fan>
-		<overflow_tank>
-			GReddy Traditional Oil Catch Can (15mm) 500cc
-		</overflow_tank>
-	</cooling>
-	<transmission>
-		5 speed manual rebuilt by Kinetic Motorsport w/ all brand new synchros
-	</transmission>
-	<drivetrain>
-		<clutch>
+      Forced Performance DSM Race Manifold w/ Bronze Coating (D5S Ni-Resist Turbine housing material)
+    </manifold>
+    <o2_housing>
+      Forced Performance Custom 3" SS O2 Housing Recirculated
+    </o2_housing>
+    <wastegate>
+      TiAL 44mm vband Wastegate
+    </wastegate>
+    <downpipe>
+      Kinetic Motorsport 3" SS Downpipe w/ flex coupling
+    </downpipe>
+    <catback>
+      Kinetic Motorsport 3" Mandrel Bent SS Full catback + resonator + 2nd o2 sensor extension welded in
+    </catback>
+    <cat_converter>
+      Magnaflow High Flow 3" Cat (aircare warrior)
+    </cat_converter>
+    <resonator>
+      Vibrant Performance Bottle Style Resonator 3"/4" x 18" T304 Stainless Steel
+    </resonator>
+  </exhaust>
+  <fuel_system>
+    <injectors>
+      4x Rochester type injectors of unknown size (~680cc)
+    </injectors>
+    <fuel_pump>
+      Walbro 255lph HP Fuel Pump
+    </fuel_pump>
+    <fuel_lines>
+    </fuel_lines>
+    <fuel_lines_return>
+    </fuel_lines_return>
+    <fuel_rail>
+    </fuel_rail>
+    <fpr>
+    </fpr>
+    <fuel_filter>
+    </fuel_filter>
+  </fuel_system>
+  <electronics>
+    <engine_mgmt>
+      AEM EMS Programmable Engine Management Systems (AEM Part# 30-1310)
+    </engine_mgmt>
+    <map_sensor>
+      AEM 3.5 BAR / 50 PSIa MAP Stainless Steel Sensor Kit (AEM Part# 30-2130-50)
+    </map_sensor>
+    <iat_sensor>
+      AEM Air Inlet Temperature Sensor Kit (AEM Part# 30-2010)
+    </iat_sensor>
+    <boost_controller>
+      AEM Boost Control Solenoid Kit (AEM Part# 30-2400)
+    </boost_controller>
+    <battery>
+      MotoMaster 72 (storage)
+    </battery>
+    <alternator>
+      GM/Saturn 96A alternator (1993-99 Saturn SC series with DOHC engine)
+    </alternator>
+    <alternator_relocation>
+      Jay Racing Alternator Relocation Kit for 2G DSM w/ aluminum main bracket
+    </alternator_relocation>
+    <gauge>
+      AutoMeter UltraLite (Air/Fuel, Boost, Pyrometer)
+    </gauge>
+    <ignition>
+    </ignition>
+    <spark_plugs>
+      NGK BPR6ES gapped to 0.028"
+    </spark_plugs>
+    <spark_delivery>
+      NGK Spark Plug Wires
+    </spark_delivery>
+  </electronics>
+  <cooling>
+    <radiator>
+      Fluidyne Aluminum Radiator 2g DSM
+    </radiator>
+    <radcap>
+      GReddy 1.3 bar Rad Cap Type S
+    </radcap>
+    <hose>
+      GReddy Upper Radiator Hose
+    </hose>
+    <fan>
+    </fan>
+    <overflow_tank>
+      GReddy Traditional Oil Catch Can (15mm) 500cc
+    </overflow_tank>
+  </cooling>
+  <transmission>
+    5 speed manual rebuilt by Kinetic Motorsport w/ all brand new synchros
+  </transmission>
+  <drivetrain>
+    <clutch>
       Kinetic Motorsport Performance Clutch Kit Stage 2 (ACT2600)
-		</clutch>
+    </clutch>
     <flywheel>
       ACT XACT Flywheel Streetlite 6 bolt
-		</flywheel>
-		<clutch_hydraulics>
-			Techna-Fit SS Braided Clutch Line (Master to Slave)
-		</clutch_hydraulics>
-		<driveshaft>
-		</driveshaft>
-		<axles>
-		</axles>
-		<differential type="front">
-		</differential>
-		<differential type="center">
-			JNZ Tuning 4-spider Center Differential
-		</differential>
-		<differential type="rear">
-			stock V-LSD rear differential
-		</differential>
-		<transfer_case>
-		</transfer_case>
-		<shifter_linkage>
-			Short Shifter
-		</shifter_linkage>
-		<shifter_base_bushing>
-			Symborski Shifter Base Bushing Kit
-		</shifter_base_bushing>
-		<shifter_bushing>
-			RTM Underhood Shifter Bushing Kit
-		</shifter_bushing>
-	</drivetrain>
-	<chassis>
-	</chassis>
-	<suspension>
-		<coilovers>
-			TEIN Type FLEX Coilovers
-		</coilovers>
-		<strut_bar type="front">
-			Front strut bar
-		</strut_bar>
-		<camber type="front">
-			Ingalls 2G DSM Front Camber Kit
-		</camber>
-		<bushings>
-		</bushings>
-		<engine_mounts>
-			Prothane High Performance Urethane Motor Mounts Kit 2g
-		</engine_mounts>
-		<wheel_spacers>
-			Front wheel spacers
-		</wheel_spacers>
-	</suspension>
-	<wheels>
-		<type>
-			Focal Type 165 F5
-		</type>
-		<size>
-			18x7
-		</size>
-		<bolt_pattern>
-			5x114.3
-		</bolt_pattern>
-		<offset>
-			42
-		</offset>
-		<finish>
-			Silver
-		</finish>
-		<weight>
-			25.75lbs
-		</weight>
-	</wheels>
-	<tires>
-		<type>
-			Falken ZIEX ZE-512 M+S
-		</type>
-		<size>
-			225/40ZR18 92W
-		</size>
-		<od>
-			25.1
-		</od>
-		<section_width>
-			9.1
-		</section_width>
-		<load_rating>
-			1389
-		</load_rating>
-		<side_wall_style>
-			BLK
-		</side_wall_style>
-	</tires>
-	<brakes>
-		<type>
-			Stoptech Brakes Kit SP40 (4 piston Front Calipers)
-		</type>
-		<calipers type="front">
-			Stoptech SP40 4 piston
-		</calipers>
-		<calipers type="rear">
-		</calipers>
-		<rotors type="front">
-			AEM Big Break Kit Slotted Rotors
-		</rotors>
-		<rotors type="rear">
-			AEM Big Break Kit Slotted Rotors
-		</rotors>
-		<pads type="front">
-		</pads>
-		<pads type="rear">
-		</pads>
-		<brake_lines>
-			Stoptech SS Braided Brake Lines
-		</brake_lines>
-	</brakes>
-	<interior>
-		<wrap>
-			Re-wrapped vinyl interior in a red and black color scheme (Wrapped by Trim-Up)
-			- both front seats
-			- rear seats
-			- driver and passenger side door panels
-			- rear quarter panels
-			- middle center console
-			- black fabric ceiling and floor carpet
-		</wrap>
-		<steering_wheel>
-			Steering wheel and airbag cover is replaced with a Mitsubishi one
-		</steering_wheel>
-	</interior>
-	<exterior>
-		<body_conversion>
-			<front_bumper>
-				eclipse front bumper conversion (custom modified 2gb OEM bumper)
-			</front_bumper>
-			<rear_bumper>
-				eclipse rear bumper
-			</rear_bumper>
-			<spoiler>
-				eclipse turbo spoiler
-			</spoiler>
-			<other>
-				shaved talon side moldings
-			</other>
-			<headlights>
-				Angel Eyes Halo Projectors (2gb eclipse / black housing)
-			</headlights>
-			<taillights>
-				eclipse rear tail lights
-			</taillights>
-		</body_conversion>
-		<hid>
-			Philips 6000K HID kit
-			Philips LVQ 212 - L300 ballast
-			D2S type 35W bulb
-		</hid>
-		<bonnet>
-			Carbon fibre hood OEM style 2gb eclipse
-		</bonnet>
-		<hood_pins>
-			Aluminum hood pins (anodized red)
-		</hood_pins>
-		<wipers>
-			PIAA Super Sporza Silicone Wipers
-		</wipers>
-	</exterior>
-	<sound>
-		<speakers>
-			<dome_tweeter>
-			</dome_tweeter>
-			<front>
-				Clarion 4" 2-way
-			</front>
-			<rear>
-				Clarion SRR6986 6" x 9" Bidirectional Glass-Fiber Woofer Cone coaxial 2-way 350W
-			</rear>
-			<subwoofer>
-				<type>
-					2 x Pioneer 10"
-				</type>
-				<enclosure>
+    </flywheel>
+    <clutch_hydraulics>
+      Techna-Fit SS Braided Clutch Line (Master to Slave)
+    </clutch_hydraulics>
+    <driveshaft>
+    </driveshaft>
+    <axles>
+    </axles>
+    <differential type="front">
+    </differential>
+    <differential type="center">
+      JNZ Tuning 4-spider Center Differential
+    </differential>
+    <differential type="rear">
+      stock V-LSD rear differential
+    </differential>
+    <transfer_case>
+    </transfer_case>
+    <shifter_linkage>
+      Short Shifter
+    </shifter_linkage>
+    <shifter_base_bushing>
+      Symborski Shifter Base Bushing Kit
+    </shifter_base_bushing>
+    <shifter_bushing>
+      RTM Underhood Shifter Bushing Kit
+    </shifter_bushing>
+  </drivetrain>
+  <chassis>
+  </chassis>
+  <suspension>
+    <coilovers>
+      TEIN Type FLEX Coilovers
+    </coilovers>
+    <strut_bar type="front">
+      Front strut bar
+    </strut_bar>
+    <camber type="front">
+      Ingalls 2G DSM Front Camber Kit
+    </camber>
+    <bushings>
+    </bushings>
+    <engine_mounts>
+      Prothane High Performance Urethane Motor Mounts Kit 2g
+    </engine_mounts>
+    <wheel_spacers>
+      Front wheel spacers
+    </wheel_spacers>
+  </suspension>
+  <wheels>
+    <type>
+      Focal Type 165 F5
+    </type>
+    <size>
+      18x7
+    </size>
+    <bolt_pattern>
+      5x114.3
+    </bolt_pattern>
+    <offset>
+      42
+    </offset>
+    <finish>
+      Silver
+    </finish>
+    <weight>
+      25.75lbs
+    </weight>
+  </wheels>
+  <tires>
+    <type>
+      Falken ZIEX ZE-512 M+S
+    </type>
+    <size>
+      225/40ZR18 92W
+    </size>
+    <od>
+      25.1
+    </od>
+    <section_width>
+      9.1
+    </section_width>
+    <load_rating>
+      1389
+    </load_rating>
+    <side_wall_style>
+      BLK
+    </side_wall_style>
+  </tires>
+  <brakes>
+    <type>
+      Stoptech Brakes Kit SP40 (4 piston Front Calipers)
+    </type>
+    <calipers type="front">
+      Stoptech SP40 4 piston
+    </calipers>
+    <calipers type="rear">
+    </calipers>
+    <rotors type="front">
+      AEM Big Break Kit Slotted Rotors
+    </rotors>
+    <rotors type="rear">
+      AEM Big Break Kit Slotted Rotors
+    </rotors>
+    <pads type="front">
+    </pads>
+    <pads type="rear">
+    </pads>
+    <brake_lines>
+      Stoptech SS Braided Brake Lines
+    </brake_lines>
+  </brakes>
+  <interior>
+    <wrap>
+      Re-wrapped vinyl interior in a red and black color scheme (Wrapped by Trim-Up)
+      - both front seats
+      - rear seats
+      - driver and passenger side door panels
+      - rear quarter panels
+      - middle center console
+      - black fabric ceiling and floor carpet
+    </wrap>
+    <steering_wheel>
+      Steering wheel and airbag cover is replaced with a Mitsubishi one
+    </steering_wheel>
+  </interior>
+  <exterior>
+    <body_conversion>
+      <front_bumper>
+        eclipse front bumper conversion (custom modified 2gb OEM bumper)
+      </front_bumper>
+      <rear_bumper>
+        eclipse rear bumper
+      </rear_bumper>
+      <spoiler>
+        eclipse turbo spoiler
+      </spoiler>
+      <other>
+        shaved talon side moldings
+      </other>
+      <headlights>
+        Angel Eyes Halo Projectors (2gb eclipse / black housing)
+      </headlights>
+      <taillights>
+        eclipse rear tail lights
+      </taillights>
+    </body_conversion>
+    <hid>
+      Philips 6000K HID kit
+      Philips LVQ 212 - L300 ballast
+      D2S type 35W bulb
+    </hid>
+    <bonnet>
+      Carbon fibre hood OEM style 2gb eclipse
+    </bonnet>
+    <hood_pins>
+      Aluminum hood pins (anodized red)
+    </hood_pins>
+    <wipers>
+      PIAA Super Sporza Silicone Wipers
+    </wipers>
+  </exterior>
+  <sound>
+    <speakers>
+      <dome_tweeter>
+      </dome_tweeter>
+      <front>
+        Clarion 4" 2-way
+      </front>
+      <rear>
+        Clarion SRR6986 6" x 9" Bidirectional Glass-Fiber Woofer Cone coaxial 2-way 350W
+      </rear>
+      <subwoofer>
+        <type>
+          2 x Pioneer 10"
+        </type>
+        <enclosure>
           Custom molded fiberglass in-trunk box
-				</enclosure>
-			</subwoofer>
-		</speakers>
-		<amplifier>
-			MTX Thunder 2150x
-		</amplifier>
-		<source_unit>
-			Sony CDX-F5505X (52x4)
-		</source_unit>
-		<wiring>
-			Monster Cable
-		</wiring>
-	</sound>
-	<weight_reduction>
-		- a/c delete
-		- cruise control delete
-		- non cruise control throttle cable installed
-	</weight_reduction>
-	<security>
-		CompuStar 2W8000FMR Series 2 way paging alarm with autostart and turbo timer
-	</security>
-	<fluids>
-		<motor>
-			RoyalPurple 10w30
-		</motor>
-		<transmission>
-			2x GM Syncromesh / 1x 80w90 Hypoid 2.3l
-		</transmission>
-		<tcase>
-			RedLine 75w90 0.5l
-		</tcase>
-		<rear_diff>
-			RedLine Heavyweight Shockproof 0.9qt
-		</rear_diff>
-		<brake>
-			Certified DOT3
-		</brake>
-		<clutch>
-			ATE Super Blue (DOT4) High Performance Brake Fluid
-		</clutch>
-		<coolant>
-			Prestone + water / 1x RedLine WatterWetter
-		</coolant>
-	</fluids>
+        </enclosure>
+      </subwoofer>
+    </speakers>
+    <amplifier>
+      MTX Thunder 2150x
+    </amplifier>
+    <source_unit>
+      Sony CDX-F5505X (52x4)
+    </source_unit>
+    <wiring>
+      Monster Cable
+    </wiring>
+  </sound>
+  <weight_reduction>
+    - a/c delete
+    - cruise control delete
+    - non cruise control throttle cable installed
+  </weight_reduction>
+  <security>
+    CompuStar 2W8000FMR Series 2 way paging alarm with autostart and turbo timer
+  </security>
+  <fluids>
+    <motor>
+      RoyalPurple 10w30
+    </motor>
+    <transmission>
+      2x GM Syncromesh / 1x 80w90 Hypoid 2.3l
+    </transmission>
+    <tcase>
+      RedLine 75w90 0.5l
+    </tcase>
+    <rear_diff>
+      RedLine Heavyweight Shockproof 0.9qt
+    </rear_diff>
+    <brake>
+      Certified DOT3
+    </brake>
+    <clutch>
+      ATE Super Blue (DOT4) High Performance Brake Fluid
+    </clutch>
+    <coolant>
+      Prestone + water / 1x RedLine WatterWetter
+    </coolant>
+  </fluids>
 </current_specs>
