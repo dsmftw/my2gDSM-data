@@ -1,0 +1,208 @@
+{"layout":{
+  "type":"2+2 sport compact coupe",
+  "model":"1997 Eagle Talon TSi AWD",
+  "drivetrain":"transverse front engine, all wheel drive",
+  "frame_construction":"stock-type unibody steel",
+  "body_code":"FJ24/D33A",
+  "weight_lbs":2700
+},
+"engine":{
+  "type":"Mitsubishi 4G63T inline 4",
+  "construction":"cast iron block, aluminum head",
+  "displacement":2.0,
+  "valve_gear":"DOHC, 4 valves per cylinder",
+  "swap":" JDM 6-bolt 4G63T (92 Galant VR4 70k original km) swap done by Kinetic Motorsport",
+  "block":"",
+  "head":"",
+  "headstuds":"",
+  "cams":"",
+  "cam_gears":"",
+  "crankshaft":"",
+  "rods":"",
+  "pistons":"",
+  "valve_springs":""
+},
+"transmission":{
+  "type":"Mitsubishi 5-speed Standard Transaxle",
+  "code":"W5M33-2",
+  "work_done":"rebuilt by Kinetic Motorsport with all brand new synchros"
+},
+"intake":{
+  "air_filter":"K&N filter",
+  "pre_turbo":"4\" SS cold air intake",
+  "intercooler":"Kinetic Motorsport DSM 2g Race FMIC kit (24x12x3.5\")",
+  "post_turbo":"2\" T304 SS piping",
+  "bov":"Blitz Dual Drive Blow-off Valve",
+  "manifold":"JDM Cyclone intake manifold",
+  "tb":"",
+  "tb_elbow":""
+},
+"forced_induction":{
+  "turbocharger":"Forced Performance DSM FP3052 Ball Bearing turbo with driver side elbow (GT3076r)",
+  "turbine_housing":"9cm",
+  "turbine_inlet":"60mm",
+  "compressor_housing":"4\" inlet",
+  "oil_delivery":{
+    "supply":"Forced Performance 2g Oil Supply line",
+    "drain":"Forced Performance Blue Oil Drain Tube",
+    "filter":"Forced Performance -4 AN Inline Filter"
+  },
+  "water_injection":"AEM 1 Gallon Water/Methanol Injection Kit (AEM Part# 30-3000)"
+},
+"exhaust":{
+  "manifold":"Forced Performance DSM Race Manifold with Bronze Coating (D5S Ni-Resist Turbine housing material)",
+  "o2_housing":"Forced Performance Custom 3\" SS O2 Housing Recirculated",
+  "wastegate":"TiAL 44mm vband Wastegate",
+  "downpipe":"Kinetic Motorsport 3\" SS Downpipe with flex coupling",
+  "catback":"Kinetic Motorsport 3\" Mandrel Bent SS Full catback + resonator + 2nd O2 sensor extension welded in",
+  "cat_converter":"Magnaflow High Flow 3\" Cat (aircare warrior)",
+  "resonator":"Vibrant Performance Bottle Style Resonator 3\" in/out 4\" x 18\" T304 Stainless Steel"
+},
+"fuel_system":{
+  "injectors":"4x Rochester type injectors of unknown size (~~680cc)",
+  "fuel_pump":"Walbro 255lph HP Fuel Pump",
+  "fuel_lines":"",
+  "fuel_lines_return":"",
+  "fuel_rail":"",
+  "fpr":"",
+  "fuel_filter":""
+},
+"electronics":{
+  "engine_mgmt":"AEM EMS Programmable Engine Management Systems (AEM Part# 30-1310)",
+  "map_sensor":"AEM 3.5 BAR / 50 PSIa MAP Stainless Steel Sensor Kit (AEM Part# 30-2130-50)",
+  "iat_sensor":"AEM Air Inlet Temperature Sensor Kit (AEM Part# 30-2010)",
+  "boost_controller":"AEM Boost Control Solenoid Kit (AEM Part# 30-2400)",
+  "battery":"MotoMaster 72 (storage/temp)",
+  "alternator":"GM/Saturn 96A alternator (1993-99 Saturn SC series with DOHC engine)",
+  "alternator_relocation":"Jay Racing Alternator Relocation Kit for 2G DSM with aluminum main bracket",
+  "gauges":"AutoMeter UltraLite (Air/Fuel, Boost, Pyrometer)",
+  "ignition":"",
+  "spark_plugs":"NGK BPR6ES gapped to 0.028\"",
+  "spark_delivery":"NGK Spark Plug Wires"
+},
+"cooling":{
+  "radiator":"Fluidyne Aluminum Radiator 2g DSM",
+  "radcap":"GReddy 1.3 bar Rad Cap Type S",
+  "radhose":"GReddy Upper Radiator Hose",
+  "fan1":"OEM electric radiator cooling fan (passenger/engine side / puller)",
+  "overflow_tank":"GReddy Traditional Oil Catch Can (15mm) 500cc"
+},
+"drivetrain":{
+  "clutch":"Kinetic Motorsport Performance Clutch Kit Stage 2 (ACT2600)",
+  "flywheel":"ACT XACT Flywheel Streetlite 6 bolt",
+  "clutch_hydraulics":"Techna-Fit SS Braided Clutch Line (Master to Slave)",
+  "driveshaft":"",
+  "axles":"",
+  "differential":{
+    "front":"OEM",
+    "center":"JNZ Tuning 4-spider Center Differential",
+    "rear":"OEM V-LSD rear differential"
+  },
+  "transfer_case":"",
+  "shifter_linkage":"Short Shifter",
+  "shifter_base_bushing":"Symborski Shifter Base Bushing Kit",
+  "shifter_bushing":"RTM Underhood Shifter Bushing Kit"
+},
+"chassis":"",
+"suspension":{
+  "coilovers":"TEIN Type FLEX Coilovers",
+  "strut_bar":"Front strut bar",
+  "camber_adjustment":"Ingalls 2G DSM Front Camber Kit",
+  "bushings":"",
+  "engine_mounts":"Prothane High Performance Urethane Motor Mounts Kit 2g",
+  "wheel_spacers":"Front wheel spacers"
+},
+"wheels":{
+  "type":"Focal Type 165 F5",
+  "size":"18x7",
+  "bolt_pattern":"5x114.3",
+  "offset":42,
+  "finish":"Silver",
+  "weight_lbs":25.75
+},
+"tires":{
+  "type":"Falken ZIEX ZE-512 M+S",
+  "size":"225/40ZR18 92W",
+  "od":25.1,
+  "section_width":9.1,
+  "load_rating":1389,
+  "side_wall_style":"BLK"
+},
+"brakes":{
+  "type":"Stoptech Brakes Kit SP40 (4 piston Front Calipers)",
+  "calipers":{
+    "front":"Stoptech SP40 4 piston",
+    "rear":"OEM"
+  },
+  "rotors":{
+    "front":"AEM Big Break Kit Slotted Rotors",
+    "rear":"AEM Big Break Kit Slotted Rotors"
+  },
+  "pads":{
+    "front":"",
+    "rear":""
+  },
+  "brake_lines":"Stoptech SS Braided Brake Lines",
+  "ABS":"OEM AWD ABS"
+},
+"interior":{
+  "wrap":{
+    "description":"Re-wrapped vinyl interior in a red and black color scheme (Wrapped by Trim-Up)",
+    "details":[
+	  "both front seats",
+	  "rear seats",
+	  "driver and passenger side door panels",
+	  "rear quarter panels",
+	  "middle center console",
+	  "black fabric ceiling and floor carpet"
+	]
+  },
+  "steering_wheel":"Steering wheel and airbag cover is replaced with a Mitsubishi one"
+},
+"exterior":{
+  "body_conversion":{
+    "front_bumper":"Eclipse front bumper conversion (custom modified 2gb OEM bumper)",
+    "rear_bumper":"OEM 2gb Eclipse rear bumper",
+    "spoiler":"OEM 2gb Eclipse turbo spoiler",
+    "other_body":"shaved Talon side moldings",
+    "headlights":"Angel Eyes Halo Projectors (2gb eclipse / black housing)",
+    "taillights":"eclipse rear tail lights"
+  },
+  "hid":{
+    "type":"Philips 6000K HID kit",
+    "ballast":"Philips LVQ 212 - L300 ballast",
+    "bulb":"D2S type 35W bulb"
+  },
+  "bonnet":"Carbon fiber hood OEM style 2gb Eclipse",
+  "hood_pins":"Aluminum hood pins (anodized red)",
+  "wipers":"PIAA Super Sporza Silicone Wipers"
+},
+"sound":{
+  "speakers":{
+    "dome_tweeter":"",
+    "front":"Clarion 4\" 2-way",
+    "rear":"Clarion SRR6986 6\" x 9\" Bidirectional Glass-Fiber Woofer Cone coaxial 2-way 350W",
+    "subwoofer":{
+      "type":"2 x Pioneer 10\"",
+      "enclosure":"Custom molded fiberglass in-trunk box"
+    }
+  },
+  "amplifier":"MTX Thunder 2150x",
+  "source_unit":"Sony CDX-F5505X (52x4)",
+  "wiring":"Monster Cable"
+},
+"weight_reduction":[
+  "- a/c delete",
+  "- cruise control delete",
+  "- non cruise control throttle cable installed"
+],
+"security":"CompuStar 2W8000FMR Series 2 way paging alarm with autostart and turbo timer",
+"fluids":{
+  "motor":"RoyalPurple 10w30",
+  "transmission":"2x GM Syncromesh / 1x 80w90 Hypoid 2.3l",
+  "tcase":"RedLine 75w90 0.5l",
+  "rear_diff":"RedLine Heavyweight Shockproof 0.9qt",
+  "brake":"Certified DOT3",
+  "clutch":"ATE Super Blue (DOT4) High Performance Brake Fluid",
+  "coolant":"Prestone + water / 1x RedLine WatterWetter"
+}}
