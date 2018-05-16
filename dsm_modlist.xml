@@ -17,6 +17,9 @@
     <frame_construction>
       Stock-type unibody steel
     </frame_construction>
+    <body_code>
+      FJ24/D33A
+    </body_code>
     <weight>
       2700 lbs
     </weight>
@@ -31,6 +34,9 @@
     <displacement>
       2.0
     </displacement>
+    <valve_gear>
+      DOHC, 4 valves per cylinder
+    </valve_gear>
     <swap>
       JDM 6-bolt 4G63T (92 Galant VR4 70k original km) swap done by Kinetic Motorsport
     </swap>
@@ -40,9 +46,6 @@
     </head>
     <headstuds>
     </headstuds>
-    <valve_gear>
-      DOHC, 4 valves per cylinder
-    </valve_gear>
     <cams>
     </cams>
     <cam_gears>
@@ -56,6 +59,17 @@
     <valve_springs>
     </valve_springs>
   </engine>
+  <transmission>
+    <type>
+      Mitsubishi 5-speed Standard Transaxle
+    </type>
+    <code>
+      W5M33-2
+    </code>
+    <work_done>
+      5 speed manual rebuilt by Kinetic Motorsport w/ all brand new synchros
+    </work_done>
+  </transmission>
   <intake>
     <air_filter>
       K&amp;N filter
@@ -199,9 +213,6 @@
       GReddy Traditional Oil Catch Can (15mm) 500cc
     </overflow_tank>
   </cooling>
-  <transmission>
-    5 speed manual rebuilt by Kinetic Motorsport w/ all brand new synchros
-  </transmission>
   <drivetrain>
     <clutch>
       Kinetic Motorsport Performance Clutch Kit Stage 2 (ACT2600)
@@ -305,6 +316,7 @@
       Stoptech SP40 4 piston
     </calipers>
     <calipers type="rear">
+      OEM
     </calipers>
     <rotors type="front">
       AEM Big Break Kit Slotted Rotors
@@ -319,6 +331,9 @@
     <brake_lines>
       Stoptech SS Braided Brake Lines
     </brake_lines>
+    <abs>
+      OEM AWD ABS
+    </abs>
   </brakes>
   <interior>
     <wrap>
@@ -340,10 +355,10 @@
         eclipse front bumper conversion (custom modified 2gb OEM bumper)
       </front_bumper>
       <rear_bumper>
-        eclipse rear bumper
+        OEM eclipse rear bumper
       </rear_bumper>
       <spoiler>
-        eclipse turbo spoiler
+        OEM eclipse turbo spoiler
       </spoiler>
       <other>
         shaved talon side moldings
